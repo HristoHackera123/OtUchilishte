@@ -13,3 +13,18 @@ D:\HomeWork\Lists\Lists\ListEven\obj\Debug\net8.0\refint\ListEven.dll
 D:\HomeWork\Lists\Lists\ListEven\obj\Debug\net8.0\ListEven.pdb
 D:\HomeWork\Lists\Lists\ListEven\obj\Debug\net8.0\ListEven.genruntimeconfig.cache
 D:\HomeWork\Lists\Lists\ListEven\obj\Debug\net8.0\ref\ListEven.dll
+C:\Users\STUDENTS-1212-2\Pictures\Camera Roll\hristomir9a\MishoProject\ListEven\bin\Debug\net8.0\ListEven.exe
+C:\Users\STUDENTS-1212-2\Pictures\Camera Roll\hristomir9a\MishoProject\ListEven\bin\Debug\net8.0\ListEven.deps.json
+C:\Users\STUDENTS-1212-2\Pictures\Camera Roll\hristomir9a\MishoProject\ListEven\bin\Debug\net8.0\ListEven.runtimeconfig.json
+C:\Users\STUDENTS-1212-2\Pictures\Camera Roll\hristomir9a\MishoProject\ListEven\bin\Debug\net8.0\ListEven.dll
+C:\Users\STUDENTS-1212-2\Pictures\Camera Roll\hristomir9a\MishoProject\ListEven\bin\Debug\net8.0\ListEven.pdb
+C:\Users\STUDENTS-1212-2\Pictures\Camera Roll\hristomir9a\MishoProject\ListEven\obj\Debug\net8.0\ListEven.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\STUDENTS-1212-2\Pictures\Camera Roll\hristomir9a\MishoProject\ListEven\obj\Debug\net8.0\ListEven.AssemblyInfoInputs.cache
+C:\Users\STUDENTS-1212-2\Pictures\Camera Roll\hristomir9a\MishoProject\ListEven\obj\Debug\net8.0\ListEven.AssemblyInfo.cs
+C:\Users\STUDENTS-1212-2\Pictures\Camera Roll\hristomir9a\MishoProject\ListEven\obj\Debug\net8.0\ListEven.csproj.CoreCompileInputs.cache
+C:\Users\STUDENTS-1212-2\Pictures\Camera Roll\hristomir9a\MishoProject\ListEven\obj\Debug\net8.0\ListEven.sourcelink.json
+C:\Users\STUDENTS-1212-2\Pictures\Camera Roll\hristomir9a\MishoProject\ListEven\obj\Debug\net8.0\ListEven.dll
+C:\Users\STUDENTS-1212-2\Pictures\Camera Roll\hristomir9a\MishoProject\ListEven\obj\Debug\net8.0\refint\ListEven.dll
+C:\Users\STUDENTS-1212-2\Pictures\Camera Roll\hristomir9a\MishoProject\ListEven\obj\Debug\net8.0\ListEven.pdb
+C:\Users\STUDENTS-1212-2\Pictures\Camera Roll\hristomir9a\MishoProject\ListEven\obj\Debug\net8.0\ListEven.genruntimeconfig.cache
+C:\Users\STUDENTS-1212-2\Pictures\Camera Roll\hristomir9a\MishoProject\ListEven\obj\Debug\net8.0\ref\ListEven.dll

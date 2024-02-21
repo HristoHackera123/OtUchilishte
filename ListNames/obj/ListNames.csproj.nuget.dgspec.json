@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\HomeWork\\Lists\\Lists\\ListNames\\ListNames.csproj": {}
+    "C:\\Users\\STUDENTS-1212-2\\Pictures\\Camera Roll\\hristomir9a\\MishoProject\\ListNames\\ListNames.csproj": {}
   },
   "projects": {
-    "D:\\HomeWork\\Lists\\Lists\\ListNames\\ListNames.csproj": {
+    "C:\\Users\\STUDENTS-1212-2\\Pictures\\Camera Roll\\hristomir9a\\MishoProject\\ListNames\\ListNames.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\HomeWork\\Lists\\Lists\\ListNames\\ListNames.csproj",
+        "projectUniqueName": "C:\\Users\\STUDENTS-1212-2\\Pictures\\Camera Roll\\hristomir9a\\MishoProject\\ListNames\\ListNames.csproj",
         "projectName": "ListNames",
-        "projectPath": "D:\\HomeWork\\Lists\\Lists\\ListNames\\ListNames.csproj",
-        "packagesPath": "C:\\Users\\Misho\\.nuget\\packages\\",
-        "outputPath": "D:\\HomeWork\\Lists\\Lists\\ListNames\\obj\\",
+        "projectPath": "C:\\Users\\STUDENTS-1212-2\\Pictures\\Camera Roll\\hristomir9a\\MishoProject\\ListNames\\ListNames.csproj",
+        "packagesPath": "C:\\Users\\STUDENTS-1212-2\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\STUDENTS-1212-2\\Pictures\\Camera Roll\\hristomir9a\\MishoProject\\ListNames\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Misho\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\STUDENTS-1212-2\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

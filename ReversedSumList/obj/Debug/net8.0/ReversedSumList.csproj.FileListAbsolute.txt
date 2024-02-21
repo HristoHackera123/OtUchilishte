@@ -13,3 +13,18 @@ D:\HomeWork\Lists\Lists\ReversedSumList\obj\Debug\net8.0\refint\ReversedSumList.
 D:\HomeWork\Lists\Lists\ReversedSumList\obj\Debug\net8.0\ReversedSumList.pdb
 D:\HomeWork\Lists\Lists\ReversedSumList\obj\Debug\net8.0\ReversedSumList.genruntimeconfig.cache
 D:\HomeWork\Lists\Lists\ReversedSumList\obj\Debug\net8.0\ref\ReversedSumList.dll
+C:\Users\STUDENTS-1212-2\Pictures\Camera Roll\hristomir9a\MishoProject\ReversedSumList\bin\Debug\net8.0\ReversedSumList.exe
+C:\Users\STUDENTS-1212-2\Pictures\Camera Roll\hristomir9a\MishoProject\ReversedSumList\bin\Debug\net8.0\ReversedSumList.deps.json
+C:\Users\STUDENTS-1212-2\Pictures\Camera Roll\hristomir9a\MishoProject\ReversedSumList\bin\Debug\net8.0\ReversedSumList.runtimeconfig.json
+C:\Users\STUDENTS-1212-2\Pictures\Camera Roll\hristomir9a\MishoProject\ReversedSumList\bin\Debug\net8.0\ReversedSumList.dll
+C:\Users\STUDENTS-1212-2\Pictures\Camera Roll\hristomir9a\MishoProject\ReversedSumList\bin\Debug\net8.0\ReversedSumList.pdb
+C:\Users\STUDENTS-1212-2\Pictures\Camera Roll\hristomir9a\MishoProject\ReversedSumList\obj\Debug\net8.0\ReversedSumList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\STUDENTS-1212-2\Pictures\Camera Roll\hristomir9a\MishoProject\ReversedSumList\obj\Debug\net8.0\ReversedSumList.AssemblyInfoInputs.cache
+C:\Users\STUDENTS-1212-2\Pictures\Camera Roll\hristomir9a\MishoProject\ReversedSumList\obj\Debug\net8.0\ReversedSumList.AssemblyInfo.cs
+C:\Users\STUDENTS-1212-2\Pictures\Camera Roll\hristomir9a\MishoProject\ReversedSumList\obj\Debug\net8.0\ReversedSumList.csproj.CoreCompileInputs.cache
+C:\Users\STUDENTS-1212-2\Pictures\Camera Roll\hristomir9a\MishoProject\ReversedSumList\obj\Debug\net8.0\ReversedSumList.sourcelink.json
+C:\Users\STUDENTS-1212-2\Pictures\Camera Roll\hristomir9a\MishoProject\ReversedSumList\obj\Debug\net8.0\ReversedSumList.dll
+C:\Users\STUDENTS-1212-2\Pictures\Camera Roll\hristomir9a\MishoProject\ReversedSumList\obj\Debug\net8.0\refint\ReversedSumList.dll
+C:\Users\STUDENTS-1212-2\Pictures\Camera Roll\hristomir9a\MishoProject\ReversedSumList\obj\Debug\net8.0\ReversedSumList.pdb
+C:\Users\STUDENTS-1212-2\Pictures\Camera Roll\hristomir9a\MishoProject\ReversedSumList\obj\Debug\net8.0\ReversedSumList.genruntimeconfig.cache
+C:\Users\STUDENTS-1212-2\Pictures\Camera Roll\hristomir9a\MishoProject\ReversedSumList\obj\Debug\net8.0\ref\ReversedSumList.dll

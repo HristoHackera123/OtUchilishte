@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SameNumberList")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f33a9ad3ef3b31b5c347e92f543e0e6064c790e3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b9136c3571e0c0915217ee24785b403faffa57d2")]
 [assembly: System.Reflection.AssemblyProductAttribute("SameNumberList")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SameNumberList")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\HomeWork\\Lists\\Lists\\VuvejdaneNaList\\VuvejdaneNaList.csproj": {}
+    "C:\\Users\\STUDENTS-1212-2\\Pictures\\Camera Roll\\hristomir9a\\MishoProject\\VuvejdaneNaList\\VuvejdaneNaList.csproj": {}
   },
   "projects": {
-    "D:\\HomeWork\\Lists\\Lists\\VuvejdaneNaList\\VuvejdaneNaList.csproj": {
+    "C:\\Users\\STUDENTS-1212-2\\Pictures\\Camera Roll\\hristomir9a\\MishoProject\\VuvejdaneNaList\\VuvejdaneNaList.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\HomeWork\\Lists\\Lists\\VuvejdaneNaList\\VuvejdaneNaList.csproj",
+        "projectUniqueName": "C:\\Users\\STUDENTS-1212-2\\Pictures\\Camera Roll\\hristomir9a\\MishoProject\\VuvejdaneNaList\\VuvejdaneNaList.csproj",
         "projectName": "VuvejdaneNaList",
-        "projectPath": "D:\\HomeWork\\Lists\\Lists\\VuvejdaneNaList\\VuvejdaneNaList.csproj",
-        "packagesPath": "C:\\Users\\Misho\\.nuget\\packages\\",
-        "outputPath": "D:\\HomeWork\\Lists\\Lists\\VuvejdaneNaList\\obj\\",
+        "projectPath": "C:\\Users\\STUDENTS-1212-2\\Pictures\\Camera Roll\\hristomir9a\\MishoProject\\VuvejdaneNaList\\VuvejdaneNaList.csproj",
+        "packagesPath": "C:\\Users\\STUDENTS-1212-2\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\STUDENTS-1212-2\\Pictures\\Camera Roll\\hristomir9a\\MishoProject\\VuvejdaneNaList\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Misho\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\STUDENTS-1212-2\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

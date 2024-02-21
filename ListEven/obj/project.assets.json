@@ -8,24 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Misho\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\STUDENTS-1212-2\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\HomeWork\\Lists\\Lists\\ListEven\\ListEven.csproj",
+      "projectUniqueName": "C:\\Users\\STUDENTS-1212-2\\Pictures\\Camera Roll\\hristomir9a\\MishoProject\\ListEven\\ListEven.csproj",
       "projectName": "ListEven",
-      "projectPath": "D:\\HomeWork\\Lists\\Lists\\ListEven\\ListEven.csproj",
-      "packagesPath": "C:\\Users\\Misho\\.nuget\\packages\\",
-      "outputPath": "D:\\HomeWork\\Lists\\Lists\\ListEven\\obj\\",
+      "projectPath": "C:\\Users\\STUDENTS-1212-2\\Pictures\\Camera Roll\\hristomir9a\\MishoProject\\ListEven\\ListEven.csproj",
+      "packagesPath": "C:\\Users\\STUDENTS-1212-2\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\STUDENTS-1212-2\\Pictures\\Camera Roll\\hristomir9a\\MishoProject\\ListEven\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Misho\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\STUDENTS-1212-2\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

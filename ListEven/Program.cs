@@ -1,19 +1,38 @@
-﻿namespace ListEven
+﻿using System.Collections.Generic;
+
+namespace ListEven
 {
     internal class Program
     {
         static void Main(string[] args)
         {
             List<int> list = Console.ReadLine().Split().Select(int.Parse).ToList();
-            List<int> listEven = new List<int>();
-            for (int i = 0; i < list.Count; i++)
+            Console.WriteLine("Chetni: " + string.Join(" ",GetEvenElements(list)));
+            Console.WriteLine("Nechetni: " + string.Join(" ",GetOddElements(list)));
+        }
+        static List<int> GetEvenElements(List<int> numbers)
+        {
+            List<int> result = new List<int>();
+            for (int i = 0; i < numbers.Count; i++)
             {
-                if (list[i]%2 == 0)
+                if (numbers[i] % 2 == 0)
                 {
-                    listEven.Add(list[i]);
+                    result.Add(numbers[i]);
                 }
             }
-            Console.WriteLine(string.Join(" ",listEven));
+            return result;
+        } 
+        static List<int> GetOddElements(List<int> numbers)
+        {
+            List<int> result = new List<int>();
+            for (int i = 0; i < numbers.Count; i++)
+            {
+                if (numbers[i] % 2 != 0)
+                {
+                    result.Add(numbers[i]);
+                }
+            }
+            return result;
         }
     }
 }
